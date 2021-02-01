@@ -1,0 +1,2 @@
+OTHERS = /harddisk/disk1/xilinx_vcs_lib/synopsys_sim.setup
+xilinx_vcs_lib : /harddisk/disk1/xilinx_vcs_lib

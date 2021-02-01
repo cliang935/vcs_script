@@ -1,0 +1,9 @@
+~/mult/src/booth_r4_64x64.v
+~/mult/src/counter_5to3.v
+~/mult/src/full_adder.v
+~/mult/src/half_adder.v
+~/mult/src/mult64x64_top.v
+~/mult/src/wtree_4to2_64x64.v
+~/mult/tb/mult64x64_check_s.v
+~/mult/tb/mult64x64_check_us.v
+~/mult/tb/testbench.v
